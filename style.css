@@ -125,6 +125,11 @@ nav li{
   height: 300px;
 }
 
+/* Experience */
+
+.experience-container{
+  display: flex;
+}
 
 
 
