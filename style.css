@@ -74,3 +74,58 @@ nav li{
   margin-bottom: 25px;
 
 }
+
+/* Style Main Part */
+
+/* Team */
+.team-list-container{
+  display: flex;
+  align-items: center;
+  padding: 50px 350px 0px 350px;
+}
+
+.four-pic{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.quick-text-area{
+  margin-left: 70px;
+}
+
+.quick-heading{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+}
+
+.quick-para{
+  font-family: 'Work Sans', sans-serif;
+  color: #727272;
+  font-size: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+#list-colour{
+  color: #727272;
+  font-weight: 500;
+}
+
+.ftr-primary{
+  color: #FF900E;
+  font-family: Work Sans;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.one, .two, .three, .four{
+  width: 300px;
+  height: 300px;
+}
+
+
+
+
+
