@@ -1,4 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&family=Yellowtail&display=swap');
+
 *{
   margin: 0;
   padding: 0;
+}
+
+/* Common Style Of Every Button */
+
+.btn-primary{
+  background-color: #FF900E;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+/* Banner Section Style */
+.banner-section{
+  background: rgba(255, 144, 14, 0.10);
+  width: 100%;
+  height: auto;
+  padding: 40px 0px;
+}
+.navigation-bar{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  align-items: center;
+  padding: 0px;
+  margin: 0px 150px 50px 150px;
+}
+
+nav > ul{
+  list-style: none;
+  display: flex;
+  font-family: 'Work Sans', sans-serif;
+}
+
+nav li{
+  margin-right: 48px;
+}
+.heading-logo{
+  color: #131313;
+  font-size: 40px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.banner-pic{
+  width: 1200px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.banner-text-area{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.banner-heading{
+  color: #131313;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.banner-description{
+  color: #727272;
+  font-family: 'Work Sans', sans-serif;
+  font-size: smaller;
+  margin-bottom: 25px;
+
 }
