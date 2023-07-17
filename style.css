@@ -131,8 +131,6 @@ nav li{
 .experience-container{
   display: flex;
   padding: 0px 250px;
-  width: 1800px;
-  height: auto;
 }
 
 .exp-heading{
@@ -235,7 +233,7 @@ nav li{
 .ten-plus-exp{
   width: 250px;
   height: 160px;
-  padding: 42px;
+  padding: 10px;
   border-radius: 8px;
   background-color: #FF900E;
   color: white;
@@ -249,18 +247,152 @@ nav li{
   color: #FFF;
   text-align: center;
   font-family: Work Sans;
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 700;
-  line-height: 70px;
-  margin: 30px 0px 10px 0px;
+  line-height: 40px;
+  margin: 45px 0px 0px 0px;
 }
 
 .ten-para{
   color: #FFF;
   font-family: Work Sans;
-  font-size: 25px;
+  font-size: 15px;
   font-weight: 500;
   line-height: 40px;
+}
+
+/* Some Facts */
+
+.some-facts-heading{
+  color:  #131313;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+
+.some-facts-para{
+  color: #727272;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 146px;
+}
+
+.some-facts-description{
+  margin-left: 240px;
+}
+
+.some-fact-cards-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0px 160px 200px 160px;
+}
+
+.award{
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #FF900E;
+  width: 241.831px;
+  height: 241.831px;
+}
+
+.cards-icon{
+  margin-top: 45px;
+}
+
+.award-heading{
+  color:  #424242;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.award-para{
+  color: #727272;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+
+.projects{
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #FF900E;
+  width: 241.831px;
+  height: 241.831px;
+}
+
+
+.projects-heading{
+  color:  #424242;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.projects-para{
+  color: #727272;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+
+.clients{
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #FF900E;
+  width: 241.831px;
+  height: 241.831px;
+}
+
+
+.clients-heading{
+  color:  #424242;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.clients-para{
+  color: #727272;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
+.email{
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid #FF900E;
+  width: 241.831px;
+  height: 241.831px;
+}
+
+.email-heading{
+  color:  #424242;
+  font-family: Work Sans;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.email-para{
+  color: #727272;
+  font-family: Work Sans;
+  font-size: 15px;
+  font-weight: 600;
 }
 
 
