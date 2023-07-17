@@ -426,6 +426,25 @@ nav li{
   margin: 0px 40px 130px 40px;
 }
 
+/* Footer Section style */
+
+footer{
+  width: 1420px;
+  height: 100px;
+  border-radius: 8px;
+  background: #FFF4E7;
+  margin: 0px 240px 216px 240px;
+}
+
+.footer-para{
+  padding: 38px 410px 38px 410px;
+  color:  #424242;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+}
+
 
 
 
